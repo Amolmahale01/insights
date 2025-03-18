@@ -177,9 +177,9 @@ To setup the repository locally follow the steps mentioned below:
 ## Learn and connect
 
 - [Telegram Public Group](https://t.me/frappeinsights)
-- [Discuss Forum](https://discuss.frappe.io/c/insights/74)
+- [Discuss Forum](https://discuss.frappe.io/u/stark/activity)
 - [Documentation](https://docs.frappe.io/insights)
-- [YouTube](https://www.youtube.com/@frappetech)
+- [LinkedIn](https://www.linkedin.com/in/amol-mahale-9aa796215/)
 
 
 <br>
